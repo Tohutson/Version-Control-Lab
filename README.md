@@ -22,9 +22,9 @@
    2. Create a fork following [these](https://docs.github.com/en/get-started/quickstart/fork-a-repo) directions
    3. Edit files in Jupyter
    4. To update the remote repository, use
-        *git add <filename>
-        *git commit -m "message"
-        *git push <branch>
+       1. git add <filename>
+       2. git commit -m "message"
+       3. git push <branch>
    5. Create a pull request following [these](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) directions
     
 # CoC and License
