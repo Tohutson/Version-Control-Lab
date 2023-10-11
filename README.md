@@ -6,15 +6,15 @@
 
 # Name.py
 
-    This program accepts a user's name as an input and gives them the choice to have it returned in all caps.
+   This program accepts a user's name as an input and gives them the choice to have it returned in all caps.
     
 # Installation and Use
 
-    Open up a terminal in [JupyterHub](https://jupyter.org/try#jupyterlab). Run the following to clone the repository.
+   Open up a terminal in [JupyterHub](https://jupyter.org/try#jupyterlab). Run the following to clone the repository.
     
-    'git clone https://github.com/Tohutson/Version-Control-Lab.git'
+    git clone https://github.com/Tohutson/Version-Control-Lab.git
 
-    Run Name.ipynb and follow the prompts
+   Run Name.ipynb and follow the prompts
     
 # Contribution
     
@@ -29,6 +29,6 @@
     
 # CoC and License
 
-    We chose the Contributor Covenant as our CoC because it highlights a safe and respectful environment. This environment is meant to promote collaboration. It also provides a way for users to report unacceptable behavior and outlines how people who do not follow the code of conduct can be punished. 
+   We chose the Contributor Covenant as our CoC because it highlights a safe and respectful environment. This environment is meant to promote collaboration. It also provides a way for users to report unacceptable behavior and outlines how people who do not follow the code of conduct can be punished. 
     
-    We chose the MIT License because it was the least restrictive. We have no intent to profit off of our software and do not care if others do. The only thing we want to promote is collaboration.
+   We chose the MIT License because it was the least restrictive. We have no intent to profit off of our software and do not care if others do. The only thing we want to promote is collaboration.
