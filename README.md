@@ -27,8 +27,8 @@
        3. git push <branch>
    5. Create a pull request following [these](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) directions
     
-# CoC and License
+# License
+    This program is licensed under the MIT Copyright License, which allows users the general free-use of this code given a copyright notice is included in the work. We chose this license because we thought it would be valuable to research and understand the license, as it's both popular and likely to be used in our future projects.
 
-   We chose the Contributor Covenant as our CoC because it highlights a safe and respectful environment. This environment is meant to promote collaboration. It also provides a way for users to report unacceptable behavior and outlines how people who do not follow the code of conduct can be punished. 
-    
-   We chose the MIT License because it was the least restrictive. We have no intent to profit off of our software and do not care if others do. The only thing we want to promote is collaboration.
+# Code of Conduct
+    Included is a code of conduct adapted from the Contributor Covenant. Like the MIT License, the contributor covenant is a popular guide for creating codes of conduct so we deemed it valuable to understand.
