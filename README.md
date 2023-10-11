@@ -28,7 +28,7 @@
    5. Create a pull request following [these](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) directions
     
 # License
-    This program is licensed under the MIT Copyright License, which allows users the general free-use of this code given a copyright notice is included in the work. We chose this license because we thought it would be valuable to research and understand the license, as it's both popular and likely to be used in our future projects.
+This program is licensed under the MIT Copyright License, which allows users the general free-use of this code given a copyright notice is included in the work. We chose this license because we thought it would be valuable to research and understand the license, as it's both popular and likely to be used in our future projects.
 
 # Code of Conduct
-    Included is a code of conduct adapted from the Contributor Covenant. Like the MIT License, the contributor covenant is a popular guide for creating codes of conduct so we deemed it valuable to understand.
+Included is a code of conduct adapted from the Contributor Covenant. Like the MIT License, the contributor covenant is a popular guide for creating codes of conduct so we deemed it valuable to understand.
