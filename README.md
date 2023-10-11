@@ -18,14 +18,14 @@
     
 # Contribution
     
-    1. Read CODE-OF-CONDUCT.md
-    2. Create a fork following
-    3. Edit files in Jupyter
-    4. To update the remote repository, use
-        'git add <filename>'
-        'git commit -m "message"'
-        'git push <branch>'
-    5. Create a pull request following
+   1. Read CODE-OF-CONDUCT.md
+   2. Create a fork following
+   3. Edit files in Jupyter
+   4. To update the remote repository, use
+        git add <filename>
+        git commit -m "message"
+        git push <branch>
+   5. Create a pull request following
     
 # CoC and License
 
